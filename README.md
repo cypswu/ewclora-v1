@@ -6,7 +6,7 @@
 ### 模組配件： ###
 準備的組件包含以下模組，依其需求選擇合適的模組應用。
 
-- **EWCLORA-V1開發板**<br>
+- **[EWCLORA-V1開發板](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")**<br>
 如果不使用EWCLORA-V1開發板，也可以自行使用ESP8266相關開發板，如此需與La-01模組自行接線，此開發板除了連接LoRa模組外，還可直接使用OLED顯示屏幕，並內建自動下載電路，所以使用TTL接上電腦的USB後，就可以直接上傳燒錄，不再需要手動進入燒錄模式，且電源可以使用6V~3.3V供電。
 - **ESP-12S 或 ESP-01M**<br>
 可任選其一，此V1開發板選擇這兩種模組都可以用，差別在於ESP-12S內建4M Flash RAM，ESP-01M內建只有1M Flash RAM，且使用ESP8285核心蕊片，可由ESP8266無縫移植。
@@ -24,8 +24,10 @@
 ### 軟件燒錄： ###
 
 ### 參考資訊： ###
-[EWCLORA-V1開發板](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")可以在[這裡](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")找到。
+[**EWCLORA-V1開發板**](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")可以在[這裡](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")找到。
 
+
+----------
 
 ![alt text](image/ESP01M_options.png "ESP-01M For Arduino IDE 配置")
 
