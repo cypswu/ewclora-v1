@@ -20,11 +20,18 @@
 供電方式可以選擇USB、1顆18650、3顆三號或四號電池等等多種供電方式，此專案使用3.7V鋰電池，還可以外接充電模組進行充電。
 
 ### 開發板硬體說明： ###
+接上開關、ESP-12S、Ra-01、彈簧天線等等需求模組元件。
+<br>
+連接ESP與LoRa模組：<br>
+![alt text](image/loraconnect.png "ESP模組與LoRa模組連線")
 
 ### 軟件燒錄： ###
+Arduino IDE 開發工具
+arduino-LoRa 程式庫
+Adafruit_SSD1306 程式庫
 
 ### 參考資訊： ###
-[**EWCLORA-V1開發板**](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")可以在[這裡](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")找到。
+[**EWCLORA-V1開發板**](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")可以在[這裡](https://goods.ruten.com.tw/item/show?21902542088988 "EWCLORA-V1開發板")找到，對於焊接電子元件不熟時，建議可以請店家幫忙把需求的組件焊接完成，當收到後就可以直接使用。
 
 
 ----------
